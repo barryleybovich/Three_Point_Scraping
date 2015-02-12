@@ -1,0 +1,15 @@
+{
+  "name": "Three_Point_Scraping",
+  "version": "0.0.0",
+  "description": "scraping some nba data, aiming at 3 point shots by player height",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Barry C Leybovich",
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.53.0",
+    "cheerio": "~0.18.0"
+  }
+}
