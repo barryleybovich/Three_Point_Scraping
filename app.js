@@ -9,7 +9,8 @@ var allplayers = [];
 var playercount = 0;
 
 var minAttempts = 50;
-var year= process.argv[2];
+var year= 2015;
+year =process.argv[2];
 
 function threePointStats(){
 	for (page = 0; page<=2; page++){
